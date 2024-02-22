@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.border {
+  height: 10rem;
+  width: 10rem;
+  border-radius: 50%;
+  border: 1px solid black;
+}
+
+.background {
+  background-color: rgb(221, 222, 207);
+}
